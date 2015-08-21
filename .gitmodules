@@ -9,7 +9,7 @@
 	url = git://github.com/robbiehanson/CocoaHTTPServer.git
 [submodule "KeePassKit"]
 	path = KeePassKit
-	url = https://mstarke@github.com/mstarke/KeePassKit
+	url = https://github.com/KFDCompiled/KeePassKit.git
 [submodule "DDHotKey"]
 	path = DDHotKey
 	url = https://github.com/mstarke/DDHotKey.git
